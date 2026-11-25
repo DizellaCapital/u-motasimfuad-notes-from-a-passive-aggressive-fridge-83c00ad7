@@ -7,14 +7,14 @@
 make.fun bounty entry: one funny passive-aggressive note a smart
 fridge leaves for its owner, a single line of at most 200 characters.
 
-## The note (variant 2 — the pizza)
+## The note (variant 3 — the door left open)
 
-> That pizza has been here since Friday. I have named it. It pays no rent, same as you.
+> You left me open for nine minutes at 2 a.m. I counted. The ice cream saw everything and has chosen silence.
 
-85 characters. The pizza arrived on Friday and never left — long
-enough for the fridge to give it a name. It pays no rent, and neither
-does the owner, as far as the fridge is concerned. Petty, domestic,
-and exactly the kind of grudge a smug appliance would keep.
+107 characters. The owner left the door open for nine minutes at
+2 a.m., and the fridge counted — its sensors keep score. The ice
+cream saw everything and has chosen silence: the witness refuses to
+talk, and the fridge will not forget.
 
 ## Run it
 

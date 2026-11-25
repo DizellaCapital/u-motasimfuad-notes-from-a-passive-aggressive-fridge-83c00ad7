@@ -1,16 +1,16 @@
-"""Notes From a Passive-Aggressive Fridge — variant 2 (pizza).
+"""Notes From a Passive-Aggressive Fridge — variant 3 (door left open).
 
-The pizza has lived in the fridge since Friday, long enough to earn
-a name. It pays no rent — exactly like the owner. The program checks
-the note fits the bounty gate (one line, 1-200 characters) and writes
-it to entry.txt.
+The owner left the fridge door open for nine minutes at 2 a.m. The
+fridge counted every second, and the ice cream witnessed the whole
+thing. The program checks the note fits the bounty gate (one line,
+1-200 characters) and writes it to entry.txt.
 """
 
 from pathlib import Path
 import os
 import sys
 
-NOTE = "That pizza has been here since Friday. I have named it. It pays no rent, same as you."
+NOTE = "You left me open for nine minutes at 2 a.m. I counted. The ice cream saw everything and has chosen silence."
 
 LIMIT = 200
 
@@ -18,6 +18,8 @@ LIMIT = 200
 def find_faults(text):
     """Return a list of every gate rule the note breaks, empty if none."""
     faults = []
+    if not text:
+        faults.append("note is empty")
     if "\n" in text or "\r" in text or "\t" in text:
         faults.append("note must be a single clean line")
     if text != text.strip():
