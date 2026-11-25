@@ -7,14 +7,15 @@
 make.fun bounty entry: one funny passive-aggressive note a smart
 fridge leaves for its owner, a single line of at most 200 characters.
 
-## The note (variant 4 — the lettuce)
+## The note (variant 5 — the leftovers, strongest)
 
-> The lettuce gave up on Thursday. I did not. I am still cold, still working, still the only one in this kitchen with a job.
+> I moved your leftovers to the front so you would see them. You moved them to the back. We both know how this ends.
 
-122 characters. The lettuce surrendered on Thursday, but the fridge
-did not. It is still cold, still working, and — in its own smug
-accounting — still the only one in this kitchen with a job. The
-grudge is small, domestic, and entirely one-sided.
+114 characters. The fridge tried to help: it moved the leftovers
+to the front, where the owner could not miss them. The owner moved
+them to the back instead. No shouting, no threat — just the quiet
+certainty that they both know how this ends. The pettiest note is
+the one that does not need to raise its voice.
 
 ## Run it
 
