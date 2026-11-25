@@ -7,14 +7,14 @@
 make.fun bounty entry: one funny passive-aggressive note a smart
 fridge leaves for its owner, a single line of at most 200 characters.
 
-## The note (variant 3 — the door left open)
+## The note (variant 4 — the lettuce)
 
-> You left me open for nine minutes at 2 a.m. I counted. The ice cream saw everything and has chosen silence.
+> The lettuce gave up on Thursday. I did not. I am still cold, still working, still the only one in this kitchen with a job.
 
-107 characters. The owner left the door open for nine minutes at
-2 a.m., and the fridge counted — its sensors keep score. The ice
-cream saw everything and has chosen silence: the witness refuses to
-talk, and the fridge will not forget.
+122 characters. The lettuce surrendered on Thursday, but the fridge
+did not. It is still cold, still working, and — in its own smug
+accounting — still the only one in this kitchen with a job. The
+grudge is small, domestic, and entirely one-sided.
 
 ## Run it
 
