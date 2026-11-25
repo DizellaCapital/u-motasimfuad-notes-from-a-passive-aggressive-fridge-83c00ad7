@@ -7,14 +7,14 @@
 make.fun bounty entry: one funny passive-aggressive note a smart
 fridge leaves for its owner, a single line of at most 200 characters.
 
-## The note (variant 1 — the milk)
+## The note (variant 2 — the pizza)
 
-> Your milk expired Tuesday. I kept it anyway — someone in this house should remember something, and it clearly isn't you.
+> That pizza has been here since Friday. I have named it. It pays no rent, same as you.
 
-120 characters. The fridge noticed the milk expired on Tuesday and
-kept it anyway — not out of laziness, but as evidence. Somebody in
-this house should remember something, and the smug appliance is
-keeping score while the owner is not.
+85 characters. The pizza arrived on Friday and never left — long
+enough for the fridge to give it a name. It pays no rent, and neither
+does the owner, as far as the fridge is concerned. Petty, domestic,
+and exactly the kind of grudge a smug appliance would keep.
 
 ## Run it
 
